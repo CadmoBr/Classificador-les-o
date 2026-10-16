@@ -1,0 +1,21 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+__pycache__/
+
+# Pastas de dados e imagens (ajuste os nomes conforme as suas pastas)
+
+# Outras versões do projeto
+v1/
+v2/
+
+# Pastas de imagens e datasets pesados
+dataset/
+testar_imagens/
+v3/isic_data/
+v3/isic_data-backup/
+*.zip
+# O GitHub aceita ficheiros até 100MB. O seu modelo EfficientNet-B3 tem cerca de 45MB, 
+# por isso pode enviá-lo. Mas se tiver ficheiros maiores, adicione-os aqui:
+# *.pth
